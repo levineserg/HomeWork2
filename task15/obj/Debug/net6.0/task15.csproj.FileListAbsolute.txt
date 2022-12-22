@@ -1,0 +1,15 @@
+G:\Мой диск\GB\C#\HomeWork2\task15\bin\Debug\net6.0\task15.exe
+G:\Мой диск\GB\C#\HomeWork2\task15\bin\Debug\net6.0\task15.deps.json
+G:\Мой диск\GB\C#\HomeWork2\task15\bin\Debug\net6.0\task15.runtimeconfig.json
+G:\Мой диск\GB\C#\HomeWork2\task15\bin\Debug\net6.0\task15.dll
+G:\Мой диск\GB\C#\HomeWork2\task15\bin\Debug\net6.0\task15.pdb
+G:\Мой диск\GB\C#\HomeWork2\task15\obj\Debug\net6.0\task15.csproj.AssemblyReference.cache
+G:\Мой диск\GB\C#\HomeWork2\task15\obj\Debug\net6.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\GB\C#\HomeWork2\task15\obj\Debug\net6.0\task15.AssemblyInfoInputs.cache
+G:\Мой диск\GB\C#\HomeWork2\task15\obj\Debug\net6.0\task15.AssemblyInfo.cs
+G:\Мой диск\GB\C#\HomeWork2\task15\obj\Debug\net6.0\task15.csproj.CoreCompileInputs.cache
+G:\Мой диск\GB\C#\HomeWork2\task15\obj\Debug\net6.0\task15.dll
+G:\Мой диск\GB\C#\HomeWork2\task15\obj\Debug\net6.0\refint\task15.dll
+G:\Мой диск\GB\C#\HomeWork2\task15\obj\Debug\net6.0\task15.pdb
+G:\Мой диск\GB\C#\HomeWork2\task15\obj\Debug\net6.0\task15.genruntimeconfig.cache
+G:\Мой диск\GB\C#\HomeWork2\task15\obj\Debug\net6.0\ref\task15.dll
